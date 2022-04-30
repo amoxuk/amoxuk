@@ -9,3 +9,11 @@
 4. [覆盖GIT的历史提交记录](rm-git-log.md)
 
 5. [创建SSH-KEY](create-ssh-public-key.md)
+
+6. [opencv 查找正方形](opencv-find-rect.md)
+
+7. [Hexo 部署到 Github](hexo-to-github.md)
+
+8. [浏览器反调试代码](browser-anti-debug.md)
+
+9. [JS SOCKET](js-socket.md)
