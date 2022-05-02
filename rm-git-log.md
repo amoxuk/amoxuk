@@ -36,6 +36,9 @@ git branch -m gh-pages
 git push -f origin gh-pages
 ```
 
+![image](https://user-images.githubusercontent.com/26641021/166267488-da5f2526-30c6-472a-8ca9-910b6d7a67bd.png)
+
+
 ---
 
 > [跳转到目录](menu.md)
